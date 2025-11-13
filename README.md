@@ -29,8 +29,7 @@ Think of it as an implication engine that grows smarter by reasoning through its
 ---
 
 ## 🚀 Current Focus
-
-- **`gdk9_pipeline.py`** — the experimental reasoning core.  
+  
 - **Symbolic Syntax Engine** — turning English-like structures into machine-parseable logic.  
 - **Telegram Integration** — linking GDk9 into conversational ecosystems (WordFarm, BattleBot).  
 - **CLI Mode** — standalone symbolic shell for developers and researchers.
@@ -113,5 +112,5 @@ Just don’t hide it behind a curtain.
 
 ```
 All Rights Reserved! Opensource project by GDk9 Systems Pty Ltd
-mailto:adamgrange@proton.me || Telegram: @GDK9Systems IR: @k9soc
+mailto:adamgrange@proton.me | Telegram: @GDknine 
 Trademark Registered="GDk9" 2026 
